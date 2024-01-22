@@ -1,4 +1,4 @@
-
+import './assets/style/main.sass'
 
 
 export function RootCmp() {
