@@ -1,7 +1,7 @@
-import { BestTalent } from "../cmps/BestTalent"
-import { DistributedTeams } from "../cmps/DistributedTeams"
-import { GetStarted } from "../cmps/GetStarted"
-import { SuccessStories } from "../cmps/SuccessStories"
+import { BestTalent } from "../cmps/HomePage/BestTalent"
+import { DistributedTeams } from "../cmps/HomePage/DistributedTeams"
+import { GetStarted } from "../cmps/HomePage/GetStarted"
+import { SuccessStories } from "../cmps/HomePage/SuccessStories"
 
 
 
